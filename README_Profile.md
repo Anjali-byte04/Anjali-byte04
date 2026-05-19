@@ -33,7 +33,7 @@
 ## 🏆 Achievements
 
 - 🥇 **Top 10** — Students Change Initiative Hackathon, **IIT Delhi**
-- 🥈 **2nd Prize** — Idea Pitching Competition (1st Year)
+- 🥈 **2nd Prize** — Idea Pitching Competition (2nd Year)
 - 🏅 **Top 30** — Hack KRMU 5.0, K.R. Mangalam University
 - 🚩 **Participant** — Capture The Flag (CTF) Cybersecurity, NCU Gurugram
 
